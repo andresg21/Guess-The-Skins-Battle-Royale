@@ -2517,6 +2517,33 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "Cypher",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "Cyprus Nell",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "Relaxed Fit Jonesy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
 
             ]
