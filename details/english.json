@@ -2364,6 +2364,33 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "Adeline",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "Athleisure Assassin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "Atlantean Fishstick",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },
