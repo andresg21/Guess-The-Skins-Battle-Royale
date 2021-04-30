@@ -2256,6 +2256,51 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "Indigo Kuno",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "Infinity",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "Interceptor",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "Isabelle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "Iso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },
