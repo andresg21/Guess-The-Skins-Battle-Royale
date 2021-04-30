@@ -1710,7 +1710,7 @@
                 },
                 {
                     "number": 78,
-                    "rightAnswer": "Ghost Chaos Agent",
+                    "rightAnswer": "Chaos Double Agent",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1719,7 +1719,7 @@
                 },
                 {
                     "number": 79,
-                    "rightAnswer": "Ghost Hush",
+                    "rightAnswer": "Double Agent Hush",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1728,7 +1728,7 @@
                 },
                 {
                     "number": 80,
-                    "rightAnswer": "Ghost Wildcard",
+                    "rightAnswer": "Double Agent Wildcard",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1954,6 +1954,15 @@
                 {
                     "number": 105,
                     "rightAnswer": "Formation Fighter",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "Galactico",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
