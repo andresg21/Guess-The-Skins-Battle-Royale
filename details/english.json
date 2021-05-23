@@ -2544,6 +2544,15 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+                {
+                    "number": 171,
+                    "rightAnswer": "Mariana",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },
