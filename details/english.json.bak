@@ -3597,6 +3597,51 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+				{
+                    "number": 288,
+                    "rightAnswer": "Nitrojerry",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 289,
+                    "rightAnswer": "Wrap Major",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 290,
+                    "rightAnswer": "Vogue Visionary",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 291,
+                    "rightAnswer": "The Stylist",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 292,
+                    "rightAnswer": "Wrap Recon",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
 				
 				
