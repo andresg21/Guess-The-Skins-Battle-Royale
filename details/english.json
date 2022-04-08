@@ -3699,7 +3699,7 @@
                 },
 				{
                     "number": 299,
-                    "rightAnswer": " Guile",
+                    "rightAnswer": "Guile",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3708,7 +3708,25 @@
                 },
 				{
                     "number": 300,
-                    "rightAnswer": " Chun-Li",
+                    "rightAnswer": "Chun-Li",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 301,
+                    "rightAnswer": "Ryu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 302,
+                    "rightAnswer": "Geometrik",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],

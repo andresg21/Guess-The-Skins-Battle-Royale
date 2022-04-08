@@ -3699,7 +3699,25 @@
                 },
 				{
                     "number": 299,
-                    "rightAnswer": " Guile",
+                    "rightAnswer": "Guile",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 300,
+                    "rightAnswer": "Chun-Li",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
+                },
+				{
+                    "number": 301,
+                    "rightAnswer": "Ryu",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
